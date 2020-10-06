@@ -1,0 +1,7 @@
+dc
+.metals
+postgres_schema
+*/project/target
+*/target
+.vscode
+.DS_Store
